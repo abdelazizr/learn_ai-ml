@@ -2,7 +2,7 @@
 """
 Created on Fri Mar  9 06:02:54 2018
 
-@author: abdel.aziz.sereme
+@author: aziz
 
 This code will create a deep learning network to predict the stock price google
 """
